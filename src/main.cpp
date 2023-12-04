@@ -1,7 +1,7 @@
 /*
- * Author:
- * Date:
- * Name:
+ * Author: Abdusamad Nigmatov
+ * Date: 04.12.2023
+ * Name: ABDUSAMAD
  */
 
 #include <iostream>
